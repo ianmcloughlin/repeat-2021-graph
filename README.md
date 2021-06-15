@@ -28,7 +28,7 @@ There are two parts to this project, as below.
 #### Part 1
 
 Write a program in Python 3 that takes a regular expression and a file as command line arguments, and outputs the number of matches for the regular expression within the file.
-Yuo may limit yourself to regular languages, with the concatenation operator `.`, the or operator `|`, and the Kleene star `*`.
+You may limit yourself to regular languages, with the concatenation operator `.`, the or operator `|`, and the Kleene star `*`.
 The program should work as follows:
 
 ```bash
